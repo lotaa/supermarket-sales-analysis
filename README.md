@@ -1,4 +1,4 @@
-# Supermarket Sales Data Analysis
+![download](https://github.com/user-attachments/assets/3f2d2363-e6f3-4542-a06d-5ae3568594f5)# Supermarket Sales Data Analysis
 ## Overview
     This project aims to explore and analyze supermarket sales data to uncover insights and patterns 
     that can help improve business performance. The key areas of focus include:
@@ -44,11 +44,29 @@
 
 ## Key Findings
     1. Impact of Tax on Gross Income:
-
         A weak correlation between tax and gross income was observed, suggesting that the amount of tax does not significantly impact the gross income.
         Customer Satisfaction Analysis:
     
-    2. Satisfaction levels were influenced by unit price, with lower prices generally corresponding to higher satisfaction. The method of payment and quantity purchased also played a role in determining satisfaction levels.
+    2. Satisfaction levels were influenced by unit price, with lower prices generally corresponding to higher satisfaction.
+        The method of payment and quantity purchased also played a role in determining satisfaction levels.
+    
     3. Gross Income Trends:
-        Monthly gross income showed clear trends with certain months contributing significantly more to the total revenue. This could help in financial planning and promotional strategies.
-        Visualizations
+        Monthly gross income showed clear trends with certain months contributing significantly more to the total revenue. 
+        This could help in financial planning and promotional strategies.
+## Visualizations
+
+![download](https://github.com/user-attachments/assets/c03d7fb3-97f5-436b-8075-0210159526fb)
+
+
+![download](https://github.com/user-attachments/assets/2ed6e820-986b-49d0-835b-145ea6bcef54)
+
+
+![download](https://github.com/user-attachments/assets/acfb79c8-13eb-496c-ae4e-8876843514f2)
+
+
+![download](https://github.com/user-attachments/assets/b43d3aa6-fcb8-4af2-934f-4b7243eac7e9)
+
+
+![download](https://github.com/user-attachments/assets/cdf72345-6b88-4312-afc4-4e3f059a54a3)
+
+
