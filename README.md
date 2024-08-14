@@ -1,6 +1,7 @@
 # Supermarket Sales Data Analysis
 ## Overview
-    This project aims to explore and analyze supermarket sales data to uncover insights and patterns that can help improve business performance. The key areas of focus include:
+    This project aims to explore and analyze supermarket sales data to uncover insights and patterns 
+    that can help improve business performance. The key areas of focus include:
 
 ### The impact of tax on gross income.
   1. Analysis of customer satisfaction levels.
@@ -26,27 +27,28 @@
     gross income: Income before taxes.
     Rating: Customer satisfaction rating (1-10).
 ## Methodology
-  1.Data Cleaning: nothing to do 
-  2. Data Preprocessing:  
-              ***Converted Date column to datetime format.***
-              ***Extracted month from the Date column to analyze trends over time.***
+      1.Data Cleaning: nothing to do 
+      2. Data Preprocessing:  
+                  ***Converted Date column to datetime format.***
+                  ***Extracted month from the Date column to analyze trends over time.***
 ## Exploratory Data Analysis (EDA):
-
-      Tax vs. Gross Income: Visualized the impact of tax on gross income using scatter plots and calculated correlations.
-      Customer Satisfaction Levels: Grouped customer ratings into four satisfaction levels (Very Unsatisfied, Unsatisfied, Satisfied, Very Satisfied) and analyzed the impact of various factors like payment method, unit price, and quantity sold.
-      Gross Income Trends: Analyzed gross income trends on a monthly basis, including the percentage contribution of each month to the total gross income.
+    
+      1. Tax vs. Gross Income: Visualized the impact of tax on gross income using scatter plots and calculated correlations.
+      2. Customer Satisfaction Levels: Grouped customer ratings into four satisfaction levels (Very Unsatisfied, Unsatisfied, Satisfied, Very Satisfied) and analyzed the impact of various factors like payment method, unit price, and quantity sold.
+      3. Gross Income Trends: Analyzed gross income trends on a monthly basis, including the percentage contribution of each month to the total gross income.
 ## Visualization Tools:
 
       Used Matplotlib and Seaborn for creating detailed and informative charts.
       Visualizations include scatter plots, bar charts, box plots, and line plots.
-## Key Findings
-    Impact of Tax on Gross Income:
 
-    A weak correlation between tax and gross income was observed, suggesting that the amount of tax does not significantly impact the gross income.
-    Customer Satisfaction Analysis:
+
+## Key Findings
+    1. Impact of Tax on Gross Income:
+
+        A weak correlation between tax and gross income was observed, suggesting that the amount of tax does not significantly impact the gross income.
+        Customer Satisfaction Analysis:
     
-    Satisfaction levels were influenced by unit price, with lower prices generally corresponding to higher satisfaction. The method of payment and quantity purchased also played a role in determining satisfaction levels.
-    Gross Income Trends:
-    
-    Monthly gross income showed clear trends with certain months contributing significantly more to the total revenue. This could help in financial planning and promotional strategies.
-    Visualizations
+    2. Satisfaction levels were influenced by unit price, with lower prices generally corresponding to higher satisfaction. The method of payment and quantity purchased also played a role in determining satisfaction levels.
+    3. Gross Income Trends:
+        Monthly gross income showed clear trends with certain months contributing significantly more to the total revenue. This could help in financial planning and promotional strategies.
+        Visualizations
