@@ -1,4 +1,4 @@
-![download](https://github.com/user-attachments/assets/3f2d2363-e6f3-4542-a06d-5ae3568594f5)# Supermarket Sales Data Analysis
+# Supermarket Sales Data Analysis
 ## Overview
     This project aims to explore and analyze supermarket sales data to uncover insights and patterns 
     that can help improve business performance. The key areas of focus include:
